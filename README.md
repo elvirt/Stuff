@@ -1,2 +1,2 @@
 # Stuff
-not interesting things
+this branch holds different stuff in regards to Java
